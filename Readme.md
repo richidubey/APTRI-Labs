@@ -5,24 +5,23 @@ It has a beautiful UI :
 
 > Signin Page:    
 
-![Faculty / Admin Signin](https://imgur.com/5VjqLev)    
-
+![Faculty / Admin Signin](https://i.imgur.com/5VjqLev.jpg)    
 > Home Page for Admin : 
 
-![Admin Home Page](https://imgur.com/Sq9QTDW)    
+![Admin Home Page](https://i.imgur.com/Sq9QTDW.jpg)    
 
 
 And a lot of features.
 
 > Like adding new training module : 
 
-![Add Training ](https://imgur.com/tSfau0l)
+![Add Training ](https://i.imgur.com/tSfau0l.jpg)
 
 > The Feedback Form : 
 
-![Feedback Form 1](https://imgur.com/cx34SFT)    
+![Feedback Form 1](https://i.imgur.com/cx34SFT.jpg)    
 
-![Feeback Form 2](https://imgur.com/aljKe2W)
+![Feeback Form 2](https://i.imgur.com/aljKe2W.jpg)
 
 > Attendance Management : 
 
@@ -33,21 +32,21 @@ The Faculty Checks out and Checks in a trainee for a program and the app check f
 3. Whether the trainee has already checked out and it trying to check out again. The App tells the timestamp of when he checked out.
 4. Also the trainee can check in only for a particular program for a day.
 
-![Faculty Corner](https://imgur.com/HHRme1X)
-![Check in](https://imgur.com/HKUXcqr)
-![Check out](https://imgur.com/XYuY08g)
+![Faculty Corner](https://i.imgur.com/HHRme1X.jpg)
+![Check in](https://i.imgur.com/HKUXcqr.jpg)
+![Check out](https://i.imgur.com/XYuY08g.jpg)
 
 > Admin Corner : 
 
 Admin can see the filled feedbacks and the attendance report. An excel file is made in internal memory in a specified format.
 
-![See Feedback](https://imgur.com/undefined)    
+![See Feedback](https://i.imgur.com/aErpZ1a.jpg)    
 
-![See Attendance](https://imgur.com/I8thuaQ)    
+![See Attendance](https://i.imgur.com/I8thuaQ.jpg)    
 
-![File Manager Look](https://imgur.com/4yOHWWi)
+![File Manager Look](https://i.imgur.com/4yOHWWi.jpg)
 
-![Excel Look](https://imgur.com/JMmj1nI)       
+![Excel Look](https://i.imgur.com/JMmj1nI.jpg)       
 
 
 
