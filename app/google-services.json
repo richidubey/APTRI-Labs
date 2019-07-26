@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532069814653",
+    "firebase_url": "https://aptrifeedback.firebaseio.com",
+    "project_id": "aptrifeedback",
+    "storage_bucket": "aptrifeedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532069814653:android:db9b28b7f14ba0bb",
+        "android_client_info": {
+          "package_name": "com.example.aptrifeedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532069814653-as5ti9o5r4qc76b6eklgcd9u2bj02dqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aptrifeedback",
+            "certificate_hash": "595d689bc1f1e2326aa3818bf91f54a7b8f9dafc"
+          }
+        },
+        {
+          "client_id": "532069814653-vsnah4sjr44i15qsnourr4hq0nj3srfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_UvDEj-zMNufhx7A0WtT8s2rDGS86iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532069814653-vsnah4sjr44i15qsnourr4hq0nj3srfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="APTRI Labs"
+            android:textSize="30dp"
+            android:gravity="center"/>
+       <Button
+           android:layout_marginTop="50dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+
+           android:background="@drawable/button_states"
+           android:onClick="gotoadmin"
+           android:text="Admin Panel"/>
+
+        <Button
+            android:background="@drawable/button_states"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Faculty Log In"
+            android:onClick="gotofaculty"/>
+
+        <Button
+            android:background="@drawable/button_states"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="addfeedback"
+            android:text="Write Participant's Feedback"/>
+    </LinearLayout>
+
+</ScrollView>

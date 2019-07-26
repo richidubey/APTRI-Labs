@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APTRI</string>
+
+    <array name="instructors">
+        <item>Mr Kaushik</item>
+        <item>Mr Sandeep</item>
+        <item>Mr Yash</item>
+    </array>
+
+</resources>
