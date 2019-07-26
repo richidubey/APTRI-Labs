@@ -20,13 +20,14 @@ And a lot of features.
 <img src="https://i.imgur.com/tSfau0l.jpg" alt="Add Training" width="350"/>
 
 
-> The Feedback Form : 
+> The Feedback Form :    
 
-![Feedback Form 1](https://i.imgur.com/cx34SFT.jpg =100x20)
-<img src="https://i.imgur.com/tSfau0l.jpg" alt="Add Training" width="350"/>
 
-![Feeback Form 2](https://i.imgur.com/aljKe2W.jpg =100x20)
-<img src="https://i.imgur.com/tSfau0l.jpg" alt="Add Training" width="350"/>
+<img src="https://i.imgur.com/cx34SFT.jpg alt="Feedback Form 1" width="350"/>    
+                                                                           
+
+<img src="https://i.imgur.com/aljKe2W.jpg" alt="Feedback Form 2" width="350"/>    
+
 
 > Attendance Management : 
 
