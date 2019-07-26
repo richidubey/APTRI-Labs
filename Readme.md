@@ -5,10 +5,10 @@ It has a beautiful UI :
 
 > Signin Page:    
 
-![Faculty / Admin Signin](https://i.imgur.com/5VjqLev.jpg =100x20)    
+![Faculty / Admin Signin](https://i.imgur.com/5VjqLev.jpg width="200" height="200" )    
 > Home Page for Admin : 
 
-![Admin Home Page](https://i.imgur.com/Sq9QTDW.jpg =100x20)    
+![Admin Home Page](https://i.imgur.com/Sq9QTDW.jpg width="200" height="200" )    
 
 
 And a lot of features.
