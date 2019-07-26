@@ -5,7 +5,7 @@ It has a beautiful UI :
 
 > Signin Page:    
   
-<img src="https://i.imgur.com/5VjqLev.jpg" alt="Faculty/Admin Login" width="250"/>
+<img src="https://i.imgur.com/5VjqLev.jpg" alt="Faculty/Admin Login" width="350"/>
 
 > Home Page for Admin : 
 <img src="https://github.com/your_image.png" alt="Your image title" width="250"/>
